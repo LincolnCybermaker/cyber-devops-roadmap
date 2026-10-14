@@ -15,6 +15,7 @@ My public learning journey toward a career in **Cybersecurity** and **DevOps**.
 | 2026-10-13 | Created my GitHub profile and started this roadmap |
 | 2026-10-13 | Set up Git, GitHub CLI and WSL 2 with Ubuntu |
 | 2026-10-14 | Practiced basic Linux commands and completed OverTheWire Bandit levels 0-3 (SSH, special filenames, hidden files) |
+| 2026-10-14 | Completed Bandit levels 4-9: file types, `find`, `grep`, `sort`/`uniq`, `strings` and pipes |
 
 ## Related repositories
 - [linux-notes](https://github.com/LincolnCybermaker/linux-notes)
